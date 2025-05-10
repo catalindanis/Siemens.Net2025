@@ -8,17 +8,26 @@ I don’t guarantee that the project will run 100% correctly using other IDE’s
 From now on, you can freely enjoy the application and all of it’s functionalities. You are free to make mistakes, because the project is built to handle any input from a user and don’t crash.
 
 ## Functionalities:
-0 – Displays all books (including their details) currently registered in the application.
-1 – Add a book by entering it’s fields: Title, Author and quantity. If a book with the same Title and Author already exists, than only it’s quantity will be increased.
-2 – Delete a book by entering it’s Id. If you don’t know the Id of the book, you can simply display all books (option 0), which will also print the id’s of the books.
-3 – Update a book by entering it’s Id and the new fields with which will be updated.
-4 – Lend a book, by entering it’s Id and the number of books that will be lended.
-5 – Return a lend of a book, by entering the lend Id. If you don’t know the book Id, you can simply display all lends (option 7), which will also print the lends id’s.
-6 – Search a book by all of it’s fields. Searching by Id or quantity will search for an exact match of this fields, but searching by Title or Author will look for the books that contains the provided inputs.
-7 – Display all lends (including their details) currently registered in the application.
-8 – Display all books that have a critical stock quantity. This is the custom functionality, and it aims to help the administrator to identify easily which books are having a very low stock of available pieces remaining. The critical stock treshold can be updated manually from this menu, and as all of other things from the application, it will be persistent over application restart.
-9 – Exit the application.
+0 – Displays all books (including their details) currently registered in the application.  
+
+1 – Add a book by entering it’s fields: Title, Author and quantity. If a book with the same Title and Author already exists, than only it’s quantity will be increased.  
+
+2 – Delete a book by entering it’s Id. If you don’t know the Id of the book, you can simply display all books (option 0), which will also print the id’s of the books.  
+
+3 – Update a book by entering it’s Id and the new fields with which will be updated.  
+
+4 – Lend a book, by entering it’s Id and the number of books that will be lended. 
+
+5 – Return a lend of a book, by entering the lend Id. If you don’t know the book Id, you can simply display all lends (option 7), which will also print the lends id’s.  
+
+6 – Search a book by all of it’s fields. Searching by Id or quantity will search for an exact match of this fields, but searching by Title or Author will look for the books that contains the provided inputs.  
+
+7 – Display all lends (including their details) currently registered in the application.  
+
+8 – Display all books that have a critical stock quantity. This is the custom functionality, and it aims to help the administrator to identify easily which books are having a very low stock of available pieces remaining. The critical stock treshold can be updated manually from this menu, and as all of other things from the application, it will be persistent over application restart.  
+
+9 – Exit the application.  
 
 ## Key-level improvements:
-o Adding a more friendly user interface
-o Connecting the application within a real database
+1. Adding a more friendly user interface  
+2. Connecting the application within a real database
