@@ -1,0 +1,14 @@
+D:\Code\Siemens.Net2025\bin\Debug\net8.0\Siemens.Net2025.exe
+D:\Code\Siemens.Net2025\bin\Debug\net8.0\Siemens.Net2025.deps.json
+D:\Code\Siemens.Net2025\bin\Debug\net8.0\Siemens.Net2025.runtimeconfig.json
+D:\Code\Siemens.Net2025\bin\Debug\net8.0\Siemens.Net2025.dll
+D:\Code\Siemens.Net2025\bin\Debug\net8.0\Siemens.Net2025.pdb
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.AssemblyInfoInputs.cache
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.AssemblyInfo.cs
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.csproj.CoreCompileInputs.cache
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.dll
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\refint\Siemens.Net2025.dll
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.pdb
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\Siemens.Net2025.genruntimeconfig.cache
+D:\Code\Siemens.Net2025\obj\Debug\net8.0\ref\Siemens.Net2025.dll
